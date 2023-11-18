@@ -2,6 +2,7 @@
 CPE593 Course at Stevens Institute of Technology - Dictionary Compression Project
 
 **Deadlines**
+
 **Nov. 21st:** Group is formed; project topic is selected; workload/tasks are assigned,
 project planning is made, GitHub repository is set up. Submissions: 1) Report v1
 is uploaded to canvas with the above details. 2) GitHub directories are formed.
