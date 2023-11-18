@@ -15,7 +15,7 @@ to GitHub.
 Report/Research paper is completed. Submissions: 1) Research paper is basically
 completed (may still fine tone). 2) GitHub code base with all source code.
 
-**DICTIONARY COMPRESSION**
+# DICTIONARY COMPRESSION
 Read in the provided set of n books of an average length of m words each. Strip out all punctuation. Deal with upper/lowercase issues, otherwise many words will appear in both upper and lowercase versions just because they are at the beginning of sentences. First, create a dictionary of all the words in all the books. The dictionary should be capable of counting how many times the word has been seen, and in how many different files the word has been seen.
 
 Choose the top k words, for example, the most popular 500 words. This will be general short words like and, or, but, if, the, etc. Each word must map to a unique integer id from 1 to k. For example, if the word "the" is the most common word, and "and" is 2nd most common then the --> 1, and --> 2.
