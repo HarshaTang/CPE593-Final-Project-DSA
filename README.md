@@ -1,7 +1,7 @@
 # CPE593-Final-Project-DSA
 CPE593 Course at Stevens Institute of Technology - Dictionary Compression Project
 
-**Deadlines**
+# Deadlines
 
 **Nov. 21st:** Group is formed; project topic is selected; workload/tasks are assigned,
 project planning is made, GitHub repository is set up. Submissions: 1) Report v1
